@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three severall letters of great importance. The first, containing the brave exploits of the Lyme men at Axmister in Devonshire; together with a perfect list of the number of prisoners, ordnance, armes, and ammmuition [sic] taken there. The second, containing the late affaires at Duncanon Fort, and the city of Corke in Ireland, together with the conversion of one bishop and two deanes; shewing that they are willing to relinquish their pompe and great titles and to become single ministers againe. The third, concerning the late losse of Monmouth, and the possibility of regaining it. Passed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94334</idno>
+            <idno type="STC">Wing T1117</idno>
+            <idno type="STC">Thomason E21_6</idno>
+            <idno type="STC">ESTC R15858</idno>
+            <idno type="EEBO-CITATION">99859933</idno>
+            <idno type="PROQUEST">99859933</idno>
+            <idno type="VID">112037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112037)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E21[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three severall letters of great importance. The first, containing the brave exploits of the Lyme men at Axmister in Devonshire; together with a perfect list of the number of prisoners, ordnance, armes, and ammmuition [sic] taken there. The second, containing the late affaires at Duncanon Fort, and the city of Corke in Ireland, together with the conversion of one bishop and two deanes; shewing that they are willing to relinquish their pompe and great titles and to become single ministers againe. The third, concerning the late losse of Monmouth, and the possibility of regaining it. Passed according to order.</title>
+                  <author>P. C.</author>
+                  <author>S. S.</author>
+                  <author>I. C.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 6. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first letter signed: P. C.</note>
+                  <note>The second letter signed: S. S.</note>
+                  <note>The third letter signed: I. C.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>"Passed according to Order."</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112037:1" rendition="simple:additions"/>
+            <p>Three Severall LETTERS OF Great <hi>IMPORTANCE.</hi>
+            </p>
+            <p>The Firſt, containing the brave exploits of the <hi>Lyme</hi> men at <hi>Axmiſter</hi> in <hi>Devonſhire;</hi> Together with a perfect Liſt of the number of Priſoners, Ordnance, Armes, and Ammmuition taken there.</p>
+            <p>The Second, containing the late Affaires at <hi>Duncanon</hi> Fort, and the City of <hi>Corke</hi> in <hi>Ireland,</hi> Together with the Converſion of one <hi>Biſhop,</hi> and two <hi>Deanes;</hi> Shewing that they are willing to relin<g ref="char:EOLhyphen"/>quiſh their Pompe and great Titles and to become ſingle Miniſters againe.</p>
+            <p>The Third, concerning the late loſſe of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> and the poſſibility of regaining it.</p>
+            <p>
+               <hi>Paſſed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. B. Decemb.</hi> 6. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:112037:2"/>
+            <head>THREE LETTERS Of CONSEQVENCE, from <hi>LYME</hi> in <hi>Dorſetſhire, CORKE</hi> in <hi>Ireland,</hi> and <hi>MONMOVTH</hi> in <hi>South-Wales.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>Fter tender, of my beſt reſpects, I know you have a longing deſire to hear how this g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> go in theſe parts, as wee much deſire to heare <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wee cannot enjoy you as formerly. For newes in theſe parts, <hi>viz.</hi> The 15. of this preſent <hi>November,</hi> wee fell upon <hi>Axminster</hi> with our Horſe and Foote, and, through Gods mercie, beat them off their Works, inſomuch that we were poſſeſſed of the Towne, and they betooke them to the Church which they had forrified, on which we were loath to caſt our men, being we had a Garriſon to look on, My Brother and my ſelfe were both there, we fired part of the Town, what ſucceſſe we had, you may reade by the particulars here inclo<g ref="char:EOLhyphen"/>ſed, we loſt onely one man in the taking the Towne, and had five wounded. The <hi>Monday</hi> following we marched to <hi>Axmiſter</hi> againe,
+<pb n="3" facs="tcp:112037:2"/>Major <hi>Sydenbam</hi> having joyned with us that Lords day at night be<g ref="char:EOLunhyphen"/>fore, thinking to have ſeized on the Church, and thoſe forces that were in it, but finding them ſo ſtrong, as that is might indanger the loſſe of many of our men, wee thought is not fit to fall upon the Church, but rather to ſet the Houſes on fire, that were not burnt in the firſt firing, which accordingly we did, and burne downe the whole Towne, unleſſe it were ſome few houſes, but yet they would not come forth of the Church. The next day being Tueſday, we mar<g ref="char:EOLhyphen"/>ched to <hi>Chedeock,</hi> thinking to have carried that Houſe, and ſummo<g ref="char:EOLhyphen"/>ned them, but they refuſed to yeild, whereupon our Souldiers were all willing to ſtorme it, which we did, but we were forced to leave it, and loſt in the ſtorming, nine killed, and ſeven wounded, and in the night marched to our Garriſon againe. Had we but 500. Horſe, we ſhould, through Gods mercy, cleare all the Countrey. The Enemy hath ſince quitted <hi>Axmiſter</hi> Church, and <hi>Mourt-Houſe,</hi> ſo that wee are at preſent onely moleſted with thoſe at <hi>Chedeock-Houſe,</hi> which we ſhould eaſily ſuppreſſe, had we but five hundred Horſe to cleare the Countrey of the Enemy, from falling in our Reare, for the Enemy lyeth at <hi>Chard</hi> with five hundred Horſe and Foot, beſides thoſe that beleaguer <hi>Taunton</hi> Caſtie, which is much admired at, that they being ſo long beſieged, which is now eight weekes, and no aſsiſtance: God ſtirre up the heares of thoſe that have the power in their hands to help them.</p>
+               <p>We have intelligence from <hi>Plimouth,</hi> that on Friday laſt, they were like to be betrayed by blowing up their Magazine, which tho<g ref="char:EOLhyphen"/>rough Gods mercie was prevented, and four of the Actors were hanged, but there is a <hi>Scottiſh</hi> Maior that had a hand in it, (as it ſup<g ref="char:EOLhyphen"/>poſed) who is either ſent up, or to be ſent. <hi>Grenvill</hi> was ready with five thouſand horſe and foot to fall in at the very inſtant, when it was to be done, yet we may ſee how good our God is to us notwithſtan<g ref="char:EOLhyphen"/>ding our unworthyneſſe. I am perſwaded the Weſt may eaſily be re<g ref="char:EOLhyphen"/>gained if forces were ſent, and that thoſe Gentlemen thereunto be<g ref="char:EOLhyphen"/>longing would but deny themſelves and ſet to the worke. The Sick<g ref="char:EOLhyphen"/>neſſe is ceaſed in this place, I know not of one hath died this fort<g ref="char:EOLhyphen"/>night of the Feaver, it did raigne very hot a while.</p>
+               <p>Our men are in miſerable condition for want of pay, and they muſt have ſomething to buy them cloathes. It is pitty that <hi>Lyme</hi> ſhould be
+<pb n="4" facs="tcp:112037:3"/>quitted, and greater pitty ſo many men ſhould be loſt for want of ſubſiſtance. If you know of any that may be a meanes of ſending re<g ref="char:EOLhyphen"/>liefe to the Garriſon, I beſeech you that you would ſtirre in it, for if it be not ſpeedily relieved, we muſt of neceſſity quit the Garriſon.</p>
+               <p>The very day we tooke <hi>Axmiſter,</hi> it pleaſed God through di<g ref="char:EOLhyphen"/>ſtreſſe of weather to ſend us in a ſhip bound from <hi>Morlais</hi> in <hi>France</hi> to <hi>Tapſham</hi> neere <hi>Exceſter,</hi> laden with Linnen cloath which belongs to the Malignants of <hi>Exceſter,</hi> for the moſt part I beleeve the goods, as neere as I can gueſſe by the ſeverall letters and bills of lading that belong to the Enemy, will amount to three thouſand pound cleare of all charges</p>
+               <closer>
+                  <dateline>Lyme Regis, <date>Novemb. 21. 1644.</date>
+                  </dateline>
+                  <signed>Your dutifull Sonne. <hi>P. C.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="list">
+               <head>A Liſt of the Priſoners taken and ſlaine at <hi>Axmiſter, Novemb.</hi> 15. 1644.</head>
+               <p>LIeutenant <hi>Dugdale.</hi> Lieutenant <hi>Byam.</hi> Lieuten. <hi>Bydgood. Henry Bartus,</hi> Col. <hi>Cholmeleys</hi> man. <hi>William Knight,</hi> Sir <hi>Rebert Brets</hi> man. <hi>John Vyle, Henry Harly, Richard Stout.</hi> Lieut. Col. <hi>Paulets</hi> men. <hi>William Taylor, Hugh Douſon,</hi> Major <hi>Hinckleys</hi> men. <hi>Richard short, Richard Walcome, John Iriſh, Alexander Pring, William Bra<g ref="char:EOLhyphen"/>ford.</hi> Lieut, Col. <hi>Perciyes</hi> men. <hi>Antony Pargam, William Call, Willi. Bowyer, Rock. King.</hi> Major <hi>Percyes</hi> men. <hi>Sampſon Pickford, John Jacob,</hi> of Capt. <hi>Hen. Berkleys</hi> Troope. <hi>Joh. Barret,</hi> Lieu. Col. <hi>Rawſings</hi> man. <hi>George Randall</hi> of Capt. <hi>Ca-litons</hi> Company. <hi>Ambroſe Beſitha, Thomas Anſte<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi> Capt. <hi>Whibbyes</hi> men. <hi>John Gamon,</hi> of Capt. <hi>South<g ref="char:EOLhyphen"/>cotts</hi> Company. <hi>The Harris, Hugh Ebbens,</hi> of Capt. <hi>Slowleyes</hi> Com<g ref="char:EOLhyphen"/>pany, <hi>George Cley, Andrew Skinner, William Smith, Robert Hodgſley, John Rodd.</hi> of Capt <hi>Yews</hi> Company. <hi>Will. Ellis, Rich Ellis, Rich. Rowell Will. Coles, Iohn Randall,</hi> of Capt. <hi>Manu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ks</hi> Company. <hi>Iohn Dudney, Iohn Palmer, Iohn Cotley,</hi> of Capt. <hi>Turners</hi> Company. <hi>Iohn Kent, Laur. Husband, Robert Husband,</hi> of Majors <hi>Sprats</hi> Company. <hi>Will Iones, Rich. Cornelis,</hi> of Capt <hi>Harris</hi> Company. <hi>Maurice Cau<g ref="char:EOLhyphen"/>dry, Timothy Palmer,</hi> of Capt. <hi>Kotolls</hi> Company <hi>Rich. Cornelis, Rob. Cawley,</hi> Lieut, <hi>Ducalfs</hi> Company. <hi>Nicholas Wright,</hi> Capt. <hi>Edward
+<pb n="5" facs="tcp:112037:3"/>Barkleys</hi> man. <hi>Robert Salter,</hi> Capt. <hi>Henry Berkleys</hi> man. <hi>Robert Starke, Robert Singent, Robert Dyer,</hi> of Lieut. <hi>Webbers</hi> Company.</p>
+               <p>In all 56. Priſoners.</p>
+               <p>
+                  <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aire,</hi> Sir <hi>Richard Cholmeley</hi> Knight, Commander in Chiefe. Two Majors, one of them Major <hi>Hartley,</hi> with other Commanders and Officers, not knowne amongſt the reſt, which were in all 30. Baronet <hi>Bret</hi> dangerouſly wounded.</p>
+               <p>
+                  <hi>Taken.</hi> 4. great Pieces of Ordnance. 150, Armes. 50. Horſe. 3. Drums. 105. Halberts. 3. Barrells of Gunpowder.</p>
+            </div>
+            <div type="letter">
+               <head>A Letter from CORKE in <hi>Ireland</hi> ſpeaketh thus.</head>
+               <opener>
+                  <salute>Kinde Friend,</salute>
+               </opener>
+               <p>A Sodaime and altogether unexpected opportunity of writing unto you offering it ſelfe, with much gladneſſe I embrace the ſame, and according to this very little ſcantling of Time, ſhall en<g ref="char:EOLhyphen"/>deavour to give you an account of my preſent condition, and of the proceedings in theſe parts. The laſt I wrote was by a Miniſter to Captaine <hi>Moulton,</hi> who ſet ſaile out of <hi>Milford Haven</hi> in <hi>Wales,</hi> and was bound for <hi>England</hi> about the tenth of <hi>August</hi> laſt; I doubt not but thoſe lines incloſed, to a Gentlewoman came to your hands, ſince that time our deſigne is changed, the Lord hath beene plea<g ref="char:EOLhyphen"/>ſed to diſpoſe other wayes of us, our Ship is hired by Captaine <hi>Richard Swanley</hi> Admirall of the <hi>Iriſh</hi> Seas, for the Service of the State, we were by him imployed the 20. of <hi>September,</hi> and preſently ſent to <hi>Duncanon</hi> Caſtle neere <hi>Waterford</hi> in <hi>Ireland,</hi> there we conti<g ref="char:EOLhyphen"/>nued about thirty dayes, paſſing through many dangers, our Ene<g ref="char:EOLhyphen"/>mies lying on every ſide of us, ready to ſinke us by day, and fire us by night, if the Lord had not bin on our ſide we had bin deſtroyed: He who hath promiſed to be with his People when they paſſe tho<g ref="char:EOLhyphen"/>rough the waters, and walke through the fire, hath gratiouſly prefer<g ref="char:EOLhyphen"/>ved us out of the mouthes of Lyons, for ſuch indeed are our impla<g ref="char:EOLhyphen"/>cable Enemies, who have left no ſtone unturned to worke our over<g ref="char:EOLhyphen"/>throw. They are <hi>Jriſh</hi> and <hi>Dunkerkers,</hi> who often have ſet ſayle in
+<pb n="6" facs="tcp:112037:4"/>darke nights, come up by us, and fired many Gunnes upon us, but bleſſed be God we loſt little on our parts, we have ſhot them tho<g ref="char:EOLhyphen"/>rough and through, but ſunke none of them as we know of yet; we had onely the Fort of <hi>Duncanon</hi> our freind, where I found the old Lord <hi>Eſmund,</hi> who maintains the Fort with two hundred men, a<g ref="char:EOLhyphen"/>gainſt the whole Province of <hi>Linſter,</hi> my Lord of <hi>Eſmund</hi> and his Chaplaine refuſe to take the Covenant, but the Captaine of the Caſtle and all the Souldiers have freely taken it, I doubt not of their reali<g ref="char:EOLhyphen"/>ty. They wanted victualls, bread, and peaſe, and my Captaine hath ſupplied them ſufficiently, untill more expected proviſſions come to them from our Admirall in <hi>Milford-Haven.</hi>
+               </p>
+               <p>From the River of <hi>Waterford,</hi> we came to the Harbour of <hi>Corke, Octob.</hi> 23. and the laſt Sabbath, by the deſire of my Captaine, I went in our Pinnace to the City of <hi>Corke,</hi> where through the importunity of my Lord <hi>Inchequin,</hi> I preached in the afternoone, on <hi>Monday</hi> morning my Lord furniſhed me with one of his Horſes, and we rode together with the Governour of the City, to our Ship, riding then about twelve miles from <hi>Gorke,</hi> my Captaine entertayned my Lord very generouſly, and all his attendants, with variety of cheare and triumph, of firing Ordnance.</p>
+               <p>My Lord <hi>Inchequin</hi> hath given good teſtimonies of his reality to the Parliament in <hi>England,</hi> he hath about twelve hundred Souldi<g ref="char:EOLhyphen"/> Souldiers, above ſixe hundred of them have taken the Covenant, the reſt muſt, or elſe ſoone be caſhiered the Army, all Papiſts, and almoſt all the Iriſh, are excluded the City; the Governour thereof, Captaine <hi>Baniſter,</hi> is a very honeſt godly man, who is a very great and good aſsiſtant to my Lord: I doubt not, but they will prove in<g ref="char:EOLhyphen"/>ſtruments of much good, in carrying on that noble and pious worke begun by them, in this poore, diſtreſſed, and bleeding Kingdome of <hi>Ireland.</hi>
+               </p>
+               <p>The <hi>Hollanders</hi> have ſent three Ships laden with Proviſions to <hi>Corke,</hi> otherwiſe they might have famiſhed long ſince, they have re<g ref="char:EOLhyphen"/>ceived nothing as yet from the Parliament, I hope they will ſoone ſend a ſupply.</p>
+               <p>This Bearer, Captaine <hi>Walker,</hi> is imployed in this Expedition, by my Lord <hi>Inchequin,</hi> for this very purpoſe. My Captaine hath furni<g ref="char:EOLhyphen"/>ſhed <hi>Corke</hi> with ſeven Barrells of Powder, many Muskets, and o<g ref="char:EOLhyphen"/>ther neceſſaries, out of his owne Ship-ſtore.</p>
+               <pb n="7" facs="tcp:112037:4"/>
+               <p>One thing is very remarkable in <hi>Corke:</hi> I found two honeſt Deanes, and an old Biſhop, ſomwhat well-affected to the Parliament in <hi>England;</hi> the Deanes are well contented to looſe their Titles, and the Biſhop to be onely Maſter Biſhop, this is no ſmall wonder as I ſuppoſe.</p>
+               <p>We are at the firſt opportunity of winde, to ſet Saile for <hi>Dunca<g ref="char:EOLhyphen"/>non,</hi> and there to continue, as it is thought, for two or three Moneths.</p>
+               <p>This afternoone, there came a Ship into this Harbour from <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> hath brought uewes, that the Earle of <hi>Eſſex</hi> had routed the Ene<g ref="char:EOLhyphen"/>my, and purſued them. I hope you will ſoone have a full end of the Wars in <hi>England,</hi> and that the <hi>Iriſh</hi> Rebells will be forced to feele the weight of our <hi>Engliſh</hi> Swords.</p>
+               <p>I have no further newes to acquaint you withall, there is a Ship, that within theſe ten dayes (if God permit) will ſee Saile for <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> then I intend to trouble you with a few lines. And for the pre<g ref="char:EOLhyphen"/>ſent I reſt,</p>
+               <closer>
+                  <signed>Your loving Friend. <hi>S. S,</hi>
+                  </signed>
+                  <dateline>From my Study on Board the Ship <hi>Lewes,</hi> riding in the Harbour of <hi>Corke</hi> in <hi>Ireland,</hi> 
+                     <date>Novemb. 10. 1644.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The News from <hi>Monmouth</hi> is this.</head>
+               <p>Noble Captaine I know you expect newes, I allwayes told you, good or bad, you ſhould heare of it, as long as God ſends life and being.</p>
+               <p>Now as you have heard good, accept of what pleaſed God, wee have loſt <hi>Monmouth,</hi> a conſiderable place, and men of quality taken Priſoners there, but no queſtion of redemption.</p>
+               <p>Our loſſe was 13. Peeces of Ordnance great and ſmall, pow<g ref="char:EOLhyphen"/>der and match, with bullets and great ſhot, but few men loſt, nor a<g ref="char:EOLhyphen"/>bove ſix on either ſide, in all I meane to that number, all reſting on the bed of ſecurity, and careleſneſſe, God mend it, we are apt to
+<pb n="8" facs="tcp:112037:5"/>preſume: to conclude it was a great loſſe, and a great griefe to the Governour, he being abſent, and left a better Charge.</p>
+               <p>God bleſſed me well being but four dayes before in the Towne, where I was moſt forward in action and a man made choyce of for the overſeeing of the workes, which I did to my beſt endeavour.</p>
+               <p>I praiſe God I loſt nothing but Oates for my horſes, but I got by the hay, for I was two hundred ſtrong in Lice at the leaſt.</p>
+               <p>I was never in ſo baſe a place in my dayes, I made a ſhire ſerve eight weekes, and durſt not change, for Lice are mad at cleane Lin<g ref="char:EOLhyphen"/>nen.</p>
+               <p>Come, we are not daunted as yet, but by Gods good bleſſing hope to recover all againe, but the waters are up there, and here to, ſo that there is no marching to doe good.</p>
+               <p>We muſt waite Gods time, or the beſt man may faile of his skill, I feare preſumption is and was our fauit, and I beleeve no leſſe.</p>
+               <closer>
+                  <dateline>
+                     <date>November. 25. 1644.</date>
+                  </dateline>
+                  <signed>I C</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
